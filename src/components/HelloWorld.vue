@@ -36,7 +36,7 @@
         </a>
       </li>
       <br>
-      <li>
+      <li>HelloWorld
         <a
           href="http://vuejs-templates.github.io/webpack/"
           target="_blank"
@@ -77,8 +77,8 @@
           target="_blank"
         >
           awesome-vue
-        </a>
-      </li>
+        </a>HelloWorld
+      </li>HelloWorld
     </ul>
   </div>
 </template>
