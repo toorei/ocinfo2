@@ -77,8 +77,8 @@
           target="_blank"
         >
           awesome-vue
-        </a>HelloWorld
-      </li>HelloWorld
+        </a>
+      </li>
     </ul>
   </div>
 </template>
