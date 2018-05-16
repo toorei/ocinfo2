@@ -2,17 +2,16 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Christian William Et Samuel Christie</h2>
-    <h4>ocinfo Sismondi 2017-2018</h4>
+    <h4>OCinfo Sismondi 2017-2018</h4>
     <ul>
       <li>
         <a
           href="https://www.parisinfo.com/var/otcp/sites/images/media/1.-photos/02.-sites-culturels-630-x-405/tour-eiffel-trocadero-630x405-c-thinkstock/37221-1-fre-FR/Tour-Eiffel-Trocadero-630x405-C-Thinkstock.jpg"
           target="_blank"
         >
-          Tour Eiffel
+          Cliquez sur le lien et vous verrez la tour Eiffel qui a été construite pour l'exposition universelle de 1889 à Paris
 
         </a>
-        <p> Cliquez sur le lien et vous verrez la tour Eiffel qui a été construite pour l'exposition universelle de 1889 à Paris <p/>
       </li>
       <li>
         <a
