@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Christian William Et Samuel Christie</h2>
+    <h4>ocinfo Sismondi 2017-2018</h4>
     <ul>
       <li>
         <a
@@ -9,7 +10,9 @@
           target="_blank"
         >
           Tour Eiffel
+
         </a>
+        <p> Cliquez sur le lien et vous verrez la tour Eiffel qui a été construite pour l'exposition universelle de 1889 à Paris <p/>
       </li>
       <li>
         <a
