@@ -15,18 +15,18 @@
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1200px-Taj_Mahal_%28Edited%29.jpeg"
           target="_blank"
         >
-          Forum
+          Taj Mahal
         </a>
       </li>
       <li>
         <a
-          href="https://chat.vuejs.org"
+          href="https://www.llamatravel.com/media/image-cache/07a52fe1-feda-4301-b099-82e65df58e12/900-0-1-2310-1276/1502466643-1502466626-1472814703-1472814695-1450193463-llama-at-machu-picchu-peru.jpg"
           target="_blank"
         >
-          Community Chat
+          Machu Picchu
         </a>
       </li>
       <li>
