@@ -9,7 +9,7 @@
           href="https://www.parisinfo.com/var/otcp/sites/images/media/1.-photos/02.-sites-culturels-630-x-405/tour-eiffel-trocadero-630x405-c-thinkstock/37221-1-fre-FR/Tour-Eiffel-Trocadero-630x405-C-Thinkstock.jpg"
           target="_blank"
         >
-          Cliquez sur le lien et vous verrez la tour Eiffel qui a été construite pour l'exposition universelle de 1889 à Paris
+          tour Eiffel 
 
         </a>
       </li>
@@ -31,19 +31,19 @@
       </li>
       <li>
         <a
-          href="https://twitter.com/vuejs"
+          href="http://www.fondsecran.eu/pictures/2013/1224/1/statue-of-jesus-rio-de-janeiro-wallpaper-6049.jpg"
           target="_blank"
         >
-          Twitter
+          Chris Rédempteur
         </a>
       </li>
       <br>
       <li>
         <a
-          href="http://vuejs-templates.github.io/webpack/"
+          href="https://crm48.com/wp-content/uploads/2016/11/912579831_Pyramides_Gizeh.jpg"
           target="_blank"
         >
-          Docs for This Template
+          Pyramides de Gizeh
         </a>
       </li>
     </ul>
@@ -51,18 +51,18 @@
     <ul>
       <li>
         <a
-          href="http://router.vuejs.org/"
+          href="https://www.nationalgeographic.com/content/dam/archaeologyandhistory/rights-exempt/history-magazine/2016/01-02/petra/Petra-opener.jpg"
           target="_blank"
         >
-          vue-router
+          Pétra
         </a>
       </li>
       <li>
         <a
-          href="http://vuex.vuejs.org/"
+          href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/El_Castillo_Stitch_2008_Edit_1.jpg/1200px-El_Castillo_Stitch_2008_Edit_1.jpg"
           target="_blank"
         >
-          vuex
+          Chichén Itzá
         </a>
       </li>
       <li>
