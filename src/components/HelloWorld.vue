@@ -67,18 +67,18 @@
       </li>
       <li>
         <a
-          href="http://vue-loader.vuejs.org/"
+          href="https://www.voyagevietnam.co/wp-content/uploads/2017/12/Principales-raisons-de-visiter-Angkor-Wat.jpg"
           target="_blank"
         >
-          vue-loader
+          Angkor
         </a>
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/awesome-vue"
+          href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kiyomizu-dera_in_Kyoto-r.jpg/1200px-Kiyomizu-dera_in_Kyoto-r.jpg"
           target="_blank"
         >
-          awesome-vue
+          Kiyomizu-dera
         </a>
       </li>
     </ul>
