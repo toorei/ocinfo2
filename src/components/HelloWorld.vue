@@ -38,7 +38,7 @@
         </a>
       </li>
       <br>
-      <li>HelloWorld
+      <li>
         <a
           href="http://vuejs-templates.github.io/webpack/"
           target="_blank"
