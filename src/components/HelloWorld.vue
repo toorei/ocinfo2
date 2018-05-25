@@ -2,7 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Christian William Et Samuel Christie</h2>
-    <h4>OCinfo Sismondi 2017-2018</h4>
+    <h3>OCinfo Sismondi 2017-2018</h3>
+    <h4> Merveille du monde </h4>
     <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h5>
    <ul>
       <li>
@@ -52,9 +53,6 @@
         </a>
         <p> Voici le lien pour la Pyramides de Gizeh !</p>
       </li>
-    </ul>
-    <h2>Ecosystem</h2>
-    <ul>
       <li>
         <a
           href="https://www.nationalgeographic.com/content/dam/archaeologyandhistory/rights-exempt/history-magazine/2016/01-02/petra/Petra-opener.jpg"
@@ -62,6 +60,7 @@
         >
           Pétra
         </a>
+        <p> Voici le lien pour Pétra!</p>
       </li>
       <li>
         <a
@@ -70,6 +69,7 @@
         >
           Chichén Itzá
         </a>
+        <p> Voici le lien pour le Chichén Itzá !</p>
       </li>
       <li>
         <a
@@ -78,6 +78,7 @@
         >
           Angkor
         </a>
+        <p> Voici le lien pour le Angkor!</p>
       </li>
       <li>
         <a
@@ -86,6 +87,7 @@
         >
           Kiyomizu-dera
         </a>
+       <p> Voici le lien pour le Kiyomizu-dera!</p> 
       </li>
     </ul>
   </div>
@@ -113,9 +115,9 @@ ul {
 }
 li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 16px;
 }
 a {
-  color: #41b983;
+  color:red;
 }
 </style>
