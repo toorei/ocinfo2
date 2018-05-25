@@ -3,7 +3,8 @@
     <h1>{{ msg }}</h1>
     <h2>Christian William Et Samuel Christie</h2>
     <h4>OCinfo Sismondi 2017-2018</h4>
-    <ul>
+    <h6> Cliquez sur les liens ci-dessous et vous verrez de belles photos <h6/>
+   <ul>
       <li>
         <a
           href="https://www.parisinfo.com/var/otcp/sites/images/media/1.-photos/02.-sites-culturels-630-x-405/tour-eiffel-trocadero-630x405-c-thinkstock/37221-1-fre-FR/Tour-Eiffel-Trocadero-630x405-C-Thinkstock.jpg"
@@ -11,6 +12,8 @@
         >
           Tour Eiffel
         </a>
+        <p> Voici le lien pour la tour Eiffel!!<br/>
+        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.<p/> 
       </li>
       <li>
         <a
