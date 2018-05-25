@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>Christian William Et Samuel Christie</h2>
     <h4>OCinfo Sismondi 2017-2018</h4>
-    <h6> Cliquez sur les liens ci-dessous et vous verrez de belles photos <h6/>
+    <h6> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h6>
    <ul>
       <li>
         <a
