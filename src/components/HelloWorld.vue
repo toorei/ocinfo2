@@ -5,6 +5,9 @@
     <h3>OCinfo Sismondi 2017-2018</h3>
     <h4> Merveille du monde </h4>
     <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h5>
+    <p>
+    <img src="http://www.clker.com/cliparts/Z/v/l/v/f/n/camera-logo-md.png" alt = "logo"/>
+    </p>
    <ul>
       <li>
         <a
@@ -87,7 +90,7 @@
         >
           Kiyomizu-dera
         </a>
-       <p> Voici le lien pour le Kiyomizu-dera!</p> 
+       <p> Voici le lien pour le Kiyomizu-dera!</p>
       </li>
     </ul>
   </div>
@@ -98,7 +101,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Bienvenue dans notre site web'
+      msg: 'Bienvenue sur site web'
     }
   }
 }
