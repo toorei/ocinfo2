@@ -13,7 +13,7 @@
           Tour Eiffel
         </a>
         <p> Voici le lien pour la tour Eiffel!!<br/>
-        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.<p/> 
+        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.</p> 
       </li>
       <li>
         <a
@@ -112,6 +112,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #41b983;
 }
 </style>
