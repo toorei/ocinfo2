@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>Christian William Et Samuel Christie</h2>
     <h4>OCinfo Sismondi 2017-2018</h4>
-    <h6> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h6>
+    <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h5>
    <ul>
       <li>
         <a
@@ -12,8 +12,8 @@
         >
           Tour Eiffel
         </a>
-        <p> Voici le lien pour la tour Eiffel!!<br/>
-        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.</p> 
+        <p> Voici le lien pour la tour Eiffel !<br/>
+        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.</p>
       </li>
       <li>
         <a
@@ -22,6 +22,7 @@
         >
           Taj Mahal
         </a>
+        <p> Voici le lien pour le Taj Mahal !</p>
       </li>
       <li>
         <a
@@ -30,6 +31,7 @@
         >
           Machu Picchu
         </a>
+        <p> Voici le lien pour le Machu Picchu !</p>
       </li>
       <li>
         <a
@@ -38,6 +40,7 @@
         >
           Chris Rédempteur
         </a>
+        <p> Voici le lien pour le Chris Rédempteur!</p>
       </li>
       <br>
       <li>
@@ -47,6 +50,7 @@
         >
           Pyramides de Gizeh
         </a>
+        <p> Voici le lien pour la Pyramides de Gizeh !</p>
       </li>
     </ul>
     <h2>Ecosystem</h2>
