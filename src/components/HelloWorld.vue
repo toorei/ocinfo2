@@ -5,6 +5,7 @@
     <h3>OCinfo Sismondi 2017-2018</h3>
     <h4> Merveille du monde </h4>
     <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h5>
+    <h6> Les plus chauds en info </h6>
     <p>
     <img src="http://www.clker.com/cliparts/Z/v/l/v/f/n/camera-logo-md.png" alt = "logo"/>
     </p>
@@ -17,7 +18,7 @@
           Tour Eiffel
         </a>
         <p> Voici le lien pour la tour Eiffel !<br/>
-        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.</p>
+        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.La tour Eiffel est une tour de fer puddlé de 324 mètres de hauteur située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7ᵉ arrondissement. Son adresse officielle est 5, avenue Anatole-France.</p>
       </li>
       <li>
         <a
@@ -26,7 +27,8 @@
         >
           Taj Mahal
         </a>
-        <p> Voici le lien pour le Taj Mahal !</p>
+        <p> Voici le lien pour le Taj Mahal !<br/>
+        La construction du Taj Mahal,qui est une mausolée a commencé en 1631 et a été terminé en 1853.</p>
       </li>
       <li>
         <a
@@ -35,7 +37,8 @@
         >
           Machu Picchu
         </a>
-        <p> Voici le lien pour le Machu Picchu !</p>
+        <p> Voici le lien pour le Machu Picchu ! <br/>
+        Le Machu Picchu est une citadelle inca installée en hauteur, dans les montagnes des Andes, au Pérou, au-dessus de la vallée de la rivière Urubamba. Construite au XVe siècle et abandonnée par la suite, elle est réputée pour ses murs en pierres sèches dont la conception sophistiquée associe des blocs immenses sans mortier, le tout formant des bâtiments fascinants qui tirent parti des alignements astronomiques et offrent une vue panoramique. La raison précise de sa création demeure un mystère.</p>
       </li>
       <li>
         <a
