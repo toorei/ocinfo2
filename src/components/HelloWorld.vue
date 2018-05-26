@@ -101,7 +101,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Bienvenue sur site web'
+      msg: 'Bienvenue sur notre site web'
     }
   }
 }
