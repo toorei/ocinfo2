@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>Christian William Et Samuel Christie</h2>
     <h3>OCinfo Sismondi 2017-2018</h3>
-    <h4> Merveille du monde </h4>
+    <h4> Les Merveilles du monde </h4>
     <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h5>
     <h6> Les plus chauds en info </h6>
     <p>
@@ -47,7 +47,8 @@
         >
           Chris Rédempteur
         </a>
-        <p> Voici le lien pour le Chris Rédempteur!</p>
+        <p> Voici le lien pour le Chris Rédempteur!<br/>
+        Le Christ Rédempteur est une grande statue du Christ dominant la ville de Rio de Janeiro au Brésil, du haut du mont du Corcovado.</p>
       </li>
       <br>
       <li>
@@ -57,7 +58,8 @@
         >
           Pyramides de Gizeh
         </a>
-        <p> Voici le lien pour la Pyramides de Gizeh !</p>
+        <p> Voici le lien pour la Pyramides de Gizeh !<br/>
+        Les pyramides de Gizeh, appelées aussi complexe pyramidal de Gizeh, sont l'ensemble des pyramides égyptiennes situées dans la nécropole de Gizeh sur le plateau de Gizeh.</p>
       </li>
       <li>
         <a
@@ -66,7 +68,8 @@
         >
           Pétra
         </a>
-        <p> Voici le lien pour Pétra!</p>
+        <p> Voici le lien pour Pétra!<br/>
+        Pétra est un site archéologique célèbre, situé dans le désert sud-ouest jordanien. Remontant à environ 300 av. J.C., elle fut la capitale du royaume nabatéen. Accessible par le Sîq, un canyon étroit, le site renferme tombeaux et temples taillés dans les falaises de grès rose d'où il tient son surnom de "ville rose". La Khazneh, haute de 45 mètres, est sans doute l'édifice le plus célèbre de Pétra. Il s'agit d'un temple à la façade ornée de style grec et connu sous l'autre nom de "Trésor".</p>
       </li>
       <li>
         <a
@@ -75,7 +78,8 @@
         >
           Chichén Itzá
         </a>
-        <p> Voici le lien pour le Chichén Itzá !</p>
+        <p> Voici le lien pour le Chichén Itzá !<br/>
+        Chichén Itzá est un complexe mondialement connu de ruines mayas situé dans la péninsule du Yucatán, au Mexique. Une immense pyramide à degrés, appelée El Castillo, domine les 6,5 km² de l'ancienne cité, qui a prospéré d'environ 600 ap. J.-C. jusqu'au XIIIe siècle. Des sculptures graphiques en pierre peuvent être observées sur diverses structures comme le terrain du jeu de balle, le temple des guerriers et le mur des crânes. Des spectacles son et lumière nocturnes illuminent la géométrie sophistiquée des bâtiments.</p>
       </li>
       <li>
         <a
@@ -84,7 +88,8 @@
         >
           Angkor
         </a>
-        <p> Voici le lien pour le Angkor!</p>
+        <p> Voici le lien pour le Angkor!<br/>
+        Angkor est un site archéologique du Cambodge composé d'un ensemble de ruines et d'aménagements hydrauliques qui fut une des capitales de l'Empire khmer, existant approximativement du IXᵉ au XVᵉ siècle.</p>
       </li>
       <li>
         <a
@@ -93,7 +98,8 @@
         >
           Kiyomizu-dera
         </a>
-       <p> Voici le lien pour le Kiyomizu-dera!</p>
+       <p> Voici le lien pour le Kiyomizu-dera!<br/>
+       Le temple Kiyomizu ou Kiyomizu-dera fait référence à un complexe de temples bouddhiques et shintoïstes mais est principalement utilisé pour un seul : l'Otowa-san Kiyomizu-dera à l'est de Kyoto.</p>
       </li>
     </ul>
   </div>
@@ -112,7 +118,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1, h2 {
+h1,h2,h3,h4,h5,h6{
   font-weight: normal;
 }
 ul {

@@ -12,14 +12,15 @@ export default {
 
 <style>
 #app {
-  font-family: Arial, Verdana, sans-serif;
+  font-family: Times New Roman;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: left;
-  color: black;
+  text-align: center;
+  color: white;
   margin-top: 20px;
-  background-image: url("http://www.trinitycolumbus.org/photo_album1.gif");
+  background-image: url("https://i.skyrock.net/3991/63973991/pics/2570554841_small_1.jpg");
   background-repeat: no-repeat;
-  background-position: top ;
+  background-position: top right ;
+  background-color: black;
 }
 </style>
