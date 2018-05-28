@@ -1,10 +1,10 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Christian William Et Samuel Christie</h2>
+    <h2>Christian William et Samuel Christie</h2>
     <h3>OCinfo Sismondi 2017-2018</h3>
     <h4> Les Merveilles du monde </h4>
-    <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos </h5>
+    <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos. </h5>
     <h6> Les plus chauds en info </h6>
     <p>
     <img src="http://www.clker.com/cliparts/Z/v/l/v/f/n/camera-logo-md.png" alt = "logo"/>
@@ -18,7 +18,7 @@
           Tour Eiffel
         </a>
         <p> Voici le lien pour la tour Eiffel !<br/>
-        Elle a été construite en 1889 pour l'exposition universel et mesure plus de 300 mètre.La tour Eiffel est une tour de fer puddlé de 324 mètres de hauteur située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7ᵉ arrondissement. Son adresse officielle est 5, avenue Anatole-France.</p>
+        Elle a été construite en 1889 pour l'exposition universelle et mesure plus de 300 mètres. La tour Eiffel est une tour de fer puddlé de 324 mètres de hauteur située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7ᵉ arrondissement. Son adresse officielle est 5, avenue Anatole-France.</p>
       </li>
       <li>
         <a
@@ -58,7 +58,7 @@
         >
           Pyramides de Gizeh
         </a>
-        <p> Voici le lien pour la Pyramides de Gizeh !<br/>
+        <p> Voici le lien pour les Pyramides de Gizeh !<br/>
         Les pyramides de Gizeh, appelées aussi complexe pyramidal de Gizeh, sont l'ensemble des pyramides égyptiennes situées dans la nécropole de Gizeh sur le plateau de Gizeh.</p>
       </li>
       <li>
@@ -88,7 +88,7 @@
         >
           Angkor
         </a>
-        <p> Voici le lien pour le Angkor!<br/>
+        <p> Voici le lien pour Angkor!<br/>
         Angkor est un site archéologique du Cambodge composé d'un ensemble de ruines et d'aménagements hydrauliques qui fut une des capitales de l'Empire khmer, existant approximativement du IXᵉ au XVᵉ siècle.</p>
       </li>
       <li>
