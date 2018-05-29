@@ -3,11 +3,12 @@
     <h1>{{ msg }}</h1>
     <h2>Christian William et Samuel Christie</h2>
     <h3>OCinfo Sismondi 2017-2018</h3>
-    <h4> Les Merveilles du monde </h4>
+    <h4> Les Merveilles du monde ou Monument du monde </h4>
+    <p>Bienvenue sur notre site, vous ytrouverez des liens avec des descriptions de monuments connus et en cliquant sur les liens vous y trouverez des photos.</p>
     <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos. </h5>
     <h6> Les plus chauds en info </h6>
     <p>
-    <img src="http://www.clker.com/cliparts/Z/v/l/v/f/n/camera-logo-md.png" alt = "logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Monument_Records_logo_2017.jpg" alt = "logo"/>
     </p>
    <ul>
       <li>
@@ -101,6 +102,36 @@
        <p> Voici le lien pour le Kiyomizu-dera!<br/>
        Le temple Kiyomizu ou Kiyomizu-dera fait référence à un complexe de temples bouddhiques et shintoïstes mais est principalement utilisé pour un seul : l'Otowa-san Kiyomizu-dera à l'est de Kyoto.</p>
       </li>
+      <li>
+        <a
+          href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/280px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg"
+          target="_blank"
+        >
+          Colisée
+        </a>
+       <p> Voici le lien pour le Colisée!<br/>
+       Le Colisée, à l'origine amphithéâtre Flavien, est un immense amphithéâtre ovoïde situé dans le centre de la ville de Rome, entre l'Esquilin et le Cælius, le plus grand jamais construit dans l'empire romain.</p>
+      </li>
+      <li>
+        <a
+          href="https://img.bfmtv.com/c/1256/708/31f/8a0671309e8b5380dcf873546eb73.jpg"
+          target="_blank"
+        >
+          Grande muraille de chine
+        </a>
+       <p> Voici le lien pour la Grande muraille de chine!<br/>
+       La Grande Muraille, aussi appelé « Les Grandes Murailles » est un ensemble de fortifications militaires chinoises construites, détruites et reconstruites en plusieurs fois et à plusieurs endroits entre le IIIᵉ siècle av.</p>
+      </li>
+      <li>
+        <a
+          href="http://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/09/14/15054130826024.jpg"
+          target="_blank"
+        >
+          Bernabéu
+        </a>
+       <p> Voici le lien pour Le stade Santiago Bernabéu!<br/>
+       Le stade Santiago Bernabéu est un stade de football situé à Madrid, Espagne. Inauguré le 14 décembre 1947 et propriété du Real Madrid, sa capacité est depuis 2006 de 81 044 spectateurs et possède une hauteur de 45 mètre.</p>
+      </li>
     </ul>
   </div>
 </template>
@@ -110,7 +141,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Bienvenue sur notre site web'
+      msg: 'Bienvenue sur notre site web !!!'
     }
   }
 }
@@ -118,8 +149,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h6{
   font-weight: normal;
+}
+h5{
+  font-weigt:bold;
 }
 ul {
   list-style-type: none;
