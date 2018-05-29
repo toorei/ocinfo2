@@ -46,9 +46,9 @@
           href="http://www.fondsecran.eu/pictures/2013/1224/1/statue-of-jesus-rio-de-janeiro-wallpaper-6049.jpg"
           target="_blank"
         >
-          Chris Rédempteur
+          Christ Rédempteur
         </a>
-        <p> Voici le lien pour le Chris Rédempteur!<br/>
+        <p> Voici le lien pour le Christ Rédempteur!<br/>
         Le Christ Rédempteur est une grande statue du Christ dominant la ville de Rio de Janeiro au Brésil, du haut du mont du Corcovado.</p>
       </li>
       <br>
