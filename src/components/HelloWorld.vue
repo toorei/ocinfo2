@@ -3,8 +3,8 @@
     <h1>{{ msg }}</h1>
     <h2>Christian William et Samuel Christie</h2>
     <h3>OCinfo Sismondi 2017-2018</h3>
-    <h4> Les Merveilles du monde ou Monument du monde </h4>
-    <p>Bienvenue sur notre site, vous ytrouverez des liens avec des descriptions de monuments connus et en cliquant sur les liens vous y trouverez des photos.</p>
+    <h4> Les Merveilles du monde ou Monuments du monde </h4>
+    <p>Bienvenue sur notre site, vous y trouverez des liens avec des descriptions de monuments connus et en cliquant sur les liens vous y trouverez des photos.</p>
     <h5> Cliquez sur les liens ci-dessous et vous verrez de belles photos. </h5>
     <h6> Les plus chauds en info </h6>
     <p>
