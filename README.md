@@ -19,4 +19,9 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# Samuel et moi avons fait ensemble chaque partie du code nous nous sommes entraider pour y arriver.
+## Samuel et moi avons fait ensemble chaque partie du code nous nous sommes entraidés pour y arriver.
+Le site a été réalisé en équipe. Christian s'est surtout occupé sur la CSS, Samuel de HTLM.
+La branche master a été celle qui a majoritairement utilisée lors de la création du site web.
+Difficultés rencontrées: CSS très compliquée à comprendre et manier. Nous aurions voulu avoir une mise en page plus propre mais nous avons fait ce qu'on pouvait. HTML sans réelle difficulté. Le Javascript n'était pas nécessaire.
+Ressentis sur le cours/travail: la confection d'un site nous semblait impossible au départ étant donné qu'on ne comprenait rien (notemment l'utilisation de git et de la CSS) mais nous pensons que nous nous en sommes bien sortis.
+
