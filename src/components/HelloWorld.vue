@@ -119,7 +119,7 @@
         >
           Grande muraille de chine
         </a>
-       <p> Voici le lien pour la Grande muraille de chine!<br/>
+       <p> Voici le lien pour la Grande muraille de Chine!<br/>
        La Grande Muraille, aussi appelé « Les Grandes Murailles » est un ensemble de fortifications militaires chinoises construites, détruites et reconstruites en plusieurs fois et à plusieurs endroits entre le IIIᵉ siècle av.</p>
       </li>
       <li>
@@ -129,7 +129,7 @@
         >
           Bernabéu
         </a>
-       <p> Voici le lien pour Le stade Santiago Bernabéu!<br/>
+       <p> Voici le lien pour le stade Santiago Bernabéu!<br/>
        Le stade Santiago Bernabéu est un stade de football situé à Madrid, Espagne. Inauguré le 14 décembre 1947 et propriété du Real Madrid, sa capacité est depuis 2006 de 81 044 spectateurs et possède une hauteur de 45 mètre.</p>
       </li>
     </ul>
